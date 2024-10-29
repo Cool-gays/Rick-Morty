@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83a8c5e0-3394-48f0-8039-71da6dd6acc7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="83a8c5e0-3394-48f0-8039-71da6dd6acc7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,14 +14,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="TypeScript JSX File" />
+        <option value="JavaScript File" />
         <option value="SCSS File" />
         <option value="TypeScript File" />
-        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/components/FiltersComponent/SearchInput/SearchInput.tsx" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -36,24 +38,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Katya/Desktop/marvel_starter&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;extract.css.actions.ExtractCSSConfigurable&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Katya\\Desktop\\Practice\\rick-morty\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Katya/Desktop/sandbox/muzon_test",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
+    "ts.external.directory.path": "C:\\Users\\Katya\\Desktop\\Practice\\rick-morty\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -65,11 +69,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Katya\Desktop\Practice\rick-morty\public\locations" />
+      <recent name="C:\Users\Katya\Desktop\Practice\rick-morty\public" />
+      <recent name="C:\Users\Katya\Desktop\Practice\rick-morty\src\app\location" />
+      <recent name="C:\Users\Katya\Desktop\Practice\rick-morty\src" />
       <recent name="C:\Users\Katya\Desktop\Practice\rick-morty\src\icons\iconsFiles" />
-      <recent name="C:\Users\Katya\Desktop\Practice\rick-morty\src\components\BaseCatalogPage" />
-      <recent name="C:\Users\Katya\Desktop\Practice\rick-morty\src\app\styles" />
-      <recent name="C:\Users\Katya\Desktop\Practice\rick-morty\src\components\pagination\hooks" />
-      <recent name="C:\Users\Katya\Desktop\Practice\rick-morty\src\components\pagination" />
     </key>
   </component>
   <component name="RunManager">
@@ -112,6 +116,8 @@
       <workItem from="1728478291185" duration="15539000" />
       <workItem from="1728562882183" duration="43865000" />
       <workItem from="1728837007404" duration="608000" />
+      <workItem from="1728915567649" duration="49646000" />
+      <workItem from="1730222927782" duration="24000" />
     </task>
     <servers />
   </component>
